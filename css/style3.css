@@ -1,0 +1,138 @@
+body{
+background-image:url("Trees_1920x1234.png");
+background-repeat:no-repeat;
+background-position:center;
+height:100%;
+background-size:cover;
+}
+
+h1{font-family:courier;color:#333;font-size:50px;text-shadow: 1px 1px 1px;}
+
+h2{font-family:courier;color:#333;font-size:50px;text-shadow: 2px 2px 2px;text-align:center;}
+
+h3{font-family:courier;color:#333;font-size:30px;text-shadow: 2px 2px 2px;text-align:center;}
+
+h3 a{text-decoration:none;color:#333;}
+h2 a{text-decoration:none;color:#333;}
+
+
+
+
+
+
+#div1{
+
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width:40%;
+    height:70%;
+    margin-left:5%;
+    margin-top:2%;
+    box-shadow: 10px 10px 5px;
+     
+} 
+
+#div2{
+
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width:40%;
+    height:70%;
+    margin-left:50%;
+    margin-top:-19%;
+    box-shadow: 10px 10px 5px;
+     
+} 
+
+
+ul{
+
+list-style-type:none;
+ background-color: #333;
+ position: fixed;
+ top: 120;
+ width: 100%;
+box-shadow: 10px 10px 5px;
+}
+
+li {
+font-size:30px;
+font-family:courier;
+display:inline;
+padding:140px;
+}
+
+li a{
+text-decoration:none;
+color:white;
+padding-left:10px;
+
+}
+
+li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+p{
+font-family:courier;
+font-size:20px;
+
+float:right;
+padding:50px;
+color:#0f1f3d;
+}
+
+footer{
+padding:50px;
+float:right;
+font-family:courier;
+color:#333;
+
+}
+
+marquee{
+font-family:courier;
+text-shadow: 1px 1px 1px;
+
+}
+
+button{
+font-family:courier;
+
+margin-top:-10%;
+margin-left:36%;
+background-color: #4CAF50; 
+border: 2px solid #4CAF50;
+    color: white;
+    text-align: center;
+   padding:10px 10px;
+    display: inline-block;
+    font-size: 15px;
+    padding:10px 10px;
+border-radius: 12px;
+}
+
+button a{
+text-decoration:none;
+ color: white;
+
+}
+
+button  :hover{
+background-color: green;
+color: white;
+padding:12px 8px;
+border-radius: 12px;
+box-shadow:1px 1px 1px;
+}
+
