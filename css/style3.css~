@@ -1,4 +1,5 @@
 body{
+background-image:url("img/Trees_1920x1234.png");
 background-repeat:no-repeat;
 background-position:center;
 height:100%;
